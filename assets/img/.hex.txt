@@ -1,0 +1,10 @@
+pink logo: ff038b
+pink background: fcd1e9
+pink button: ff038b
+pink hover navbar: fcb2d9
+pink hover link text: fa68b5
+pink hover button: ff68f0
+pink popover: fcb2d9
+
+abu2 text: 333333, 555555
+abu2 popover: b6b6b6
